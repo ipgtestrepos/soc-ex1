@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/soc-ex1/vendor/emmu
+manifest:
+    product_id: cdf0e595-0e3d-417c-ad7d-1753a84b0ace
+    release_id: 57393618-d506-4b49-859e-fc51a5a2fda1
+    company: openhw
+    name: emmu
+    release: 1-4-1
+    uri: openhw/emmu/1-4-1
+    product_type: ""
+    product_category: ""
+    use_semver: false
+    package_sources: true
+    fp_extensions: .v
+    product_index: ipindex
+    last_update: 0001-01-01T00:00:00Z
+    description: Memory translation unit
