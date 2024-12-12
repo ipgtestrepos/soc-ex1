@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/soc-ex1/vendor/gpio
+manifest:
+    product_id: 888ab430-e034-41ec-89d4-107395ab446e
+    release_id: 2b8b8187-3bb6-4720-99d2-6e952226a658
+    company: openhw
+    name: gpio
+    release: 0-4-2
+    uri: openhw/gpio/0-4-2
+    product_type: ""
+    product_category: ""
+    use_semver: false
+    package_sources: true
+    fp_extensions: .c .h .v .vh
+    product_index: ipindex
+    last_update: 0001-01-01T00:00:00Z
+    description: General Purpose Software Priogrammable IO

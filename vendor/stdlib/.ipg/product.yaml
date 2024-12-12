@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/soc-ex1/vendor/stdlib
+manifest:
+    product_id: 7482028e-3bd7-49d9-958e-5f7b4092e38d
+    release_id: d0ea4259-5a3d-4412-b54a-60a32a9f6963
+    company: openhw
+    name: stdlib
+    release: 1-1-1
+    uri: openhw/stdlib/1-1-1
+    product_type: ""
+    product_category: ""
+    use_semver: false
+    package_sources: true
+    fp_extensions: .v
+    product_index: ipindex
+    last_update: 0001-01-01T00:00:00Z
+    description: Vectorized Standard Cell Building Blocks

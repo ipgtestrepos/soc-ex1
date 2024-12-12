@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/soc-ex1/vendor/edma
+manifest:
+    product_id: b9d13e85-4618-4ca3-9a4c-03b77af6c745
+    release_id: 077abf35-1864-4fa9-985e-3f797af735bb
+    company: openhw
+    name: edma
+    release: 2-2-1
+    uri: openhw/edma/2-2-1
+    product_type: ""
+    product_category: ""
+    use_semver: false
+    package_sources: true
+    fp_extensions: .v .vh
+    product_index: ipindex
+    last_update: 0001-01-01T00:00:00Z
+    description: Lightweight DMA Engine
